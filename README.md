@@ -6,7 +6,7 @@ Projeto do jogo Jokenpô ou Pedra, Papel, Tesoura; desenvolvido em Python, para 
 
 * Rafael Henrique Requião Borges dos Reis
 
-  User: https://github.com/rafouslmao
+  - User: https://github.com/rafouslmao
 
 
 * Gabriel Seiji de Almeida Kadoya
@@ -14,7 +14,7 @@ Projeto do jogo Jokenpô ou Pedra, Papel, Tesoura; desenvolvido em Python, para 
 
 * Miguel Augusto Moreira de Oliveira
 
-  User: https://github.com/MiguelAugusto-moreira
+  - User: https://github.com/MiguelAugusto-moreira
 
 ## Um jogo completo com 3 (três) modos!
 
