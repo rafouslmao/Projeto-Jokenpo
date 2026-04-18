@@ -6,8 +6,5 @@ Projeto do jogo Jokenpô ou Pedra, Papel, Tesoura; desenvolvido em Python, para 
 
 
 ## Rafael Henrique Requião Borges dos Reis
-
-
 ## Gabriel Seiji de Almeida Kadoya
-
 ## Miguel Augusto Moreira de Oliveira
