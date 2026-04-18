@@ -15,3 +15,10 @@ Gabriel Seiji de Almeida Kadoya
 Miguel Augusto Moreira de Oliveira
 
 User: https://github.com/MiguelAugusto-moreira
+
+## Um jogo completo com 3 (três) modos!
+
+* Jogue contra um colega
+* Jogue contra um computador
+* Assista uma partida entre computadores
+
