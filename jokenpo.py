@@ -273,7 +273,7 @@ while True:
                     print(f"O placar esta: {scoreP1} x {scoreP2}\nEmpates: {emp}.\n{p2} está na frente!")
                 else:
                     print(f"O placar esta: {scoreP1} x {scoreP2}\nEmpates: {emp}.\nO jogo está empatado!")
-            continuar = input("Voces desejam continuar jogando?(s/n)\n")
+            continuar = input("Voce deseja continuar jogando?(s/n)\n")
             if continuar != "s":
                 break
         break
@@ -387,7 +387,7 @@ while True:
                     print(f"O placar esta: {scoreP1} x {scoreP2}\nEmpates: {emp}.\n{p2} está na frente!")
                 else:
                     print(f"O placar esta: {scoreP1} x {scoreP2}\nEmpates: {emp}.\nO jogo está empatado!")
-            continuar = input("Voces desejam continuar jogando?(s/n)\n")
+            continuar = input("Voce deseja continuar assistindo?(s/n)\n")
             if continuar != "s":
                 break
         break
