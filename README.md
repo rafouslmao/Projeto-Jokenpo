@@ -22,13 +22,13 @@ Projeto do jogo Jokenpô ou Pedra, Papel, Tesoura; desenvolvido em Python, para 
 * Jogue contra um computador
 * Assista uma partida entre computadores
 
-## Entenda como funciona o jogo!
+# Entenda como funciona o jogo!
 
-* Menu
+## Menu
  - O jogo inicia apresentando ao usuário um Menu, onde o programa pergunta qual modo de jogo o player deseja jogar.
    <img width="339" height="161" alt="image" src="https://github.com/user-attachments/assets/00bf72e7-cf6a-4860-a246-09b98a376606" />
 
-* Modo 1 (Jogador x Jogador)
+## Modo 1 (Jogador x Jogador)
   - Ao escolher o modo número 1, o programa vai, primeiramente, perguntar quais os nomes dos jogadores.
 <img width="399" height="101" alt="image" src="https://github.com/user-attachments/assets/3b78391a-a147-4976-9d2e-d97eacf79b14" />
 <img width="416" height="91" alt="image" src="https://github.com/user-attachments/assets/b45c24b5-f1ae-42ec-8a2c-43c53542c542" />
