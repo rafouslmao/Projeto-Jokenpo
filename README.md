@@ -10,7 +10,7 @@ Projeto do jogo Jokenpô ou Pedra, Papel, Tesoura; desenvolvido em Python, para 
 
 
 * Gabriel Seiji de Almeida Kadoya
-
+ - User: https://github.com/Gabriel-Kadoya
 
 * Miguel Augusto Moreira de Oliveira
 
