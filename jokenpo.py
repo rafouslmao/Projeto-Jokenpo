@@ -98,5 +98,5 @@ while True:
         print("Está empatado!")
 
     if input("Continuar? (s/n): ").lower() != "s":
-        print("Muito obrigado por jogar!!\nTrabalho realizado por:\nRafael Henrique Requião Borges dos Reis\nMiguel Augusto Moreira de Oliveira\nGabriel Seiji de Almeida Kadoya")
+        print(f"\n\nMuito obrigado por jogar!!\n\nO placar final foi {scoreP1} x {scoreP2}\n\n\nTrabalho realizado por:\n\nRafael Henrique Requião Borges dos Reis\n\nMiguel Augusto Moreira de Oliveira\n\nGabriel Seiji de Almeida Kadoya")
         break
