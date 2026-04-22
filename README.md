@@ -1,7 +1,7 @@
 # Projeto-Jokenpo
 Projeto do jogo Jokenpô ou Pedra, Papel, Tesoura; desenvolvido em Python, para a matéria de Raciocínio Algorítmico.
 
-Se divirta com o nosso incrível jogo de Jokenpô!! Desenvolva estratégias para superar seus inimigos no modo [Modo 1](#Modo-1-(Jogador-x-Jogador)) ou batalhe para exterminar os computadores, jogando uma batalha épica contra o computador no [Modo 2](#Modo_2)
+Se divirta com o nosso incrível jogo de Jokenpô!! Desenvolva estratégias para superar seus inimigos no modo [Modo 1](#modo-1-jogador-x-jogador) ou batalhe para exterminar os computadores, jogando uma batalha épica contra o computador no [Modo 2](#Modo_2)
 
 
 # Grupo:
