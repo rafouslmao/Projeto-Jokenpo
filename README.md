@@ -27,7 +27,7 @@ Se divirta com o nosso incrível jogo de Jokenpô!! Desenvolva estratégias para
 
 # Entenda como funciona o jogo!
 
-## Menu
+### Menu
  - O jogo inicia apresentando ao usuário um Menu, onde o programa pergunta qual modo de jogo o player deseja jogar.
    <img width="255" height="169" alt="image" src="https://github.com/user-attachments/assets/6465afa7-cce5-41af-9706-c55d01176e48" />
 
