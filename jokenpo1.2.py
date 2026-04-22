@@ -12,7 +12,7 @@ print("1 - Jogador x Jogador")
 print("2 - Jogador x Computador")
 print("3 - Computador x Computador")
 
-modo = int(input("Escolha: "))
+modo = int(input("Qual modo você deseja jogar? "))
 
 # Nomes
 if modo == 1:
@@ -25,24 +25,33 @@ elif modo == 2:
 elif modo == 3:
     nome1 = "GOAT Fallen"
     nome2 = "BOT Zywoo"
+while modo > 3:
+    print("Modo inválido")
+    modo = int(input("Qual modo você deseja jogar? "))
 
 while True:
     if modo == 1:
         print("\n")
-        p1 = int(input(f"{nome1}, escolha 1(Pedra👊), 2(Papel🖐️ ), 3(Tesoura✂️ ): "))
+        p1 = int(input(f"{nome1}, você deseja jogar: \n1(Pedra👊), 2(Papel🖐️ ), 3(Tesoura✂️ ): "))
+        while p1 > 3 or p1 < 1:
+            print("Escolha inválida")
+            p1 = int(input(f"{nome1}, você deseja jogar: \n1(Pedra👊), 2(Papel🖐️ ), 3(Tesoura✂️ ): "))            
         print("\n" * 20)
-        p2 = int(input(f"{nome2}, escolha 1(Pedra👊), 2(Papel🖐️ ), 3(Tesoura✂️ ): "))
+        p2 = int(input(f"{nome2}, você deseja jogar: \n1(Pedra👊), 2(Papel🖐️ ), 3(Tesoura✂️ ): "))
+        while p2 > 3 or p2 < 1:
+            print("Escolha inválida")
+            p2 =int(input(f"{nome2}, você deseja jogar: \n1(Pedra👊), 2(Papel🖐️ ), 3(Tesoura✂️ ): "))
     elif modo == 2:
         print("\n")
-        p1 = int(input(f"{nome1}, escolha 1(Pedra👊), 2(Papel🖐️ ), 3(Tesoura✂️ ): "))
+        p1 = int(input(f"{nome1}, você deseja jogar: \n1(Pedra👊), 2(Papel🖐️ ), 3(Tesoura✂️ ): "))
+        while p1 > 3 or p1 < 1:
+            print("Escolha inválida")
+            p1 = int(input(f"{nome1}, você deseja jogar: \n1(Pedra👊), 2(Papel🖐️ ), 3(Tesoura✂️ ): "))
         p2 = random.randint(1, 3)
     elif modo == 3:
         print("\n")
         p1 = random.randint(1, 3)
         p2 = random.randint(1, 3)
-    else:
-        print("Modo inválido!")
-        break
 
     rod += 1
 
@@ -60,7 +69,7 @@ while True:
     else:
         alt2 = "Tesoura ✂️"
 
-    print(f"{nome1}: {alt1} | {nome2}: {alt2}")
+    print(f"{nome1} escolheu: {alt1} | {nome2} escolheu: {alt2}")
 
    
     if p1 == p2:
