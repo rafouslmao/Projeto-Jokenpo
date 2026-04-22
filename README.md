@@ -1,7 +1,7 @@
 # Projeto-Jokenpo
 Projeto do jogo Jokenpô ou Pedra, Papel, Tesoura; desenvolvido em Python, para a matéria de Raciocínio Algorítmico.
 
-Se divirta com o nosso incrível jogo de Jokenpô!! Desenvolva estratégias para superar seus inimigos no modo [Modo 1](#modo-1-jogador-x-jogador) ou batalhe para exterminar os computadores, jogando uma batalha épica contra o computador no [Modo 2](#Modo_2)
+Se divirta com o nosso incrível jogo de Jokenpô!! Desenvolva estratégias para superar seus inimigos no modo [Modo 1](#modo-1-jogador-x-jogador) ou batalhe para exterminar os computadores, jogando uma batalha épica contra o computador no [Modo 2](#modo-2-jogador-x-computador) ou assista as batalhas mirabolantes entre o Maior de TODOS OS TEMPOS e o Maior do futuro no [Modo 2](#modo-3-computador-x-computador)
 
 
 # Grupo:
@@ -46,4 +46,25 @@ Se divirta com o nosso incrível jogo de Jokenpô!! Desenvolva estratégias para
 <img width="351" height="100" alt="image" src="https://github.com/user-attachments/assets/002840fe-8985-415a-8d8e-178db1f3442c" />
 
 ### Modo 2 (Jogador x Computador)
-  
+  - Ao escolher o modo número 2, o programa irá perguntar o nome do Jogador.
+<img width="316" height="149" alt="image" src="https://github.com/user-attachments/assets/3a96c9cf-8147-4a7f-bc0e-8f2a09fac28c" />
+  - Em seguida, ele irá perguntar qual a escolha do jogador.
+<img width="317" height="59" alt="image" src="https://github.com/user-attachments/assets/45a79110-f7a9-485d-bd03-efc17af84144" />
+  - Quando o jogador escolher, o computador imediatamente irá escolher sua alternativa e o placar mostrará. Primeiro com as escolhas dos jogadores, logo após aparecerá o resultado do confronto, por fim o programa mostrará o placar, o número de empates e a quantidade de rodadas.
+<img width="446" height="118" alt="image" src="https://github.com/user-attachments/assets/bc7d8812-9946-4a20-bd29-6c03adfcae39" />
+  - Ao final de toda rodada, a mensagem de continuação irá aparecer perguntando ao jogador se ele deseja continuar.
+<img width="154" height="20" alt="image" src="https://github.com/user-attachments/assets/99f809da-838c-4bec-a97e-94990e1fcca8" />
+
+### Modo 3 (Computador x Computador)
+  - Aqui veremos uma das batalhas mais épicas do mundo!! Uma relíquia do tempo que continua traçando sua história no maior FPS de todos os tempos contra o maior jogador da atualidade que está procurando se concretizar como o eterno Melhor de Todos os Tempos.
+  - Ao selecionar o modo 3, a partida imediatamente mostrará o resultado do confronto, junto com a mensagem da continuação.
+<img width="475" height="241" alt="image" src="https://github.com/user-attachments/assets/cf7e651b-6cdf-4f2b-a7b1-af32a97d6577" />
+
+## Mensagem de agradecimento
+  - Ao selecionar "n" na mensagem de continuação, você recebe um agradecimento especial dos desenvolvedores!
+<img width="300" height="104" alt="image" src="https://github.com/user-attachments/assets/46c1f6a1-1d3d-42d7-9049-6cd7baf0db3c" />
+
+
+
+
+
