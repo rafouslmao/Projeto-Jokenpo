@@ -62,7 +62,7 @@ Se divirta com o nosso incrível jogo de Jokenpô!! Desenvolva estratégias para
 
 ## Mensagem de agradecimento
   - Ao selecionar "n" na mensagem de continuação, você recebe um agradecimento especial dos desenvolvedores!
-<img width="311" height="219" alt="image" src="https://github.com/user-attachments/assets/def5aeb8-0e52-4ba9-8f54-12de7ea35670" />
+<img width="294" height="222" alt="image" src="https://github.com/user-attachments/assets/089829cc-c449-4e62-b690-bed68c4c82ed" />
 
 
 
