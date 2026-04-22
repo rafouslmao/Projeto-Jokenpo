@@ -31,7 +31,7 @@ Se divirta com o nosso incrível jogo de Jokenpô!! Desenvolva estratégias para
  - O jogo inicia apresentando ao usuário um Menu, onde o programa pergunta qual modo de jogo o player deseja jogar.
    <img width="255" height="169" alt="image" src="https://github.com/user-attachments/assets/6465afa7-cce5-41af-9706-c55d01176e48" />
 
-## Modo 1 (Jogador x Jogador)
+### Modo 1 (Jogador x Jogador)
   - Ao escolher o modo número 1, o programa vai, primeiramente, perguntar quais os nomes dos jogadores.
 <img width="274" height="160" alt="image" src="https://github.com/user-attachments/assets/175e22a4-3938-4bdf-b7e4-4d5dc0bed9d6" />
 <img width="267" height="188" alt="image" src="https://github.com/user-attachments/assets/5c8c18da-4d60-4e6d-a0ba-cd836b45df02" />
@@ -45,5 +45,5 @@ Se divirta com o nosso incrível jogo de Jokenpô!! Desenvolva estratégias para
   - Caso a escolha seja "s", o jogo irá rodar novamente até que o jogador escolha encerrar o jogo.
 <img width="351" height="100" alt="image" src="https://github.com/user-attachments/assets/002840fe-8985-415a-8d8e-178db1f3442c" />
 
-## Modo 2 (Jogador x Computador)
+### Modo 2 (Jogador x Computador)
   
