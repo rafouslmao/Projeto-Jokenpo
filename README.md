@@ -1,6 +1,8 @@
 # Projeto-Jokenpo
 Projeto do jogo Jokenpô ou Pedra, Papel, Tesoura; desenvolvido em Python, para a matéria de Raciocínio Algorítmico.
 
+Se divirta com o nosso incrível jogo de Jokenpô!! Desenvolva estratégias para superar seus inimigos no modo [Modo 1](#Modo_1) ou batalhe para exterminar os computadores, jogando uma batalha épica contra o computador no [Modo 2](#Modo_2)
+
 
 # Grupo:
 
@@ -27,20 +29,21 @@ Projeto do jogo Jokenpô ou Pedra, Papel, Tesoura; desenvolvido em Python, para 
 
 ## Menu
  - O jogo inicia apresentando ao usuário um Menu, onde o programa pergunta qual modo de jogo o player deseja jogar.
-   <img width="339" height="161" alt="image" src="https://github.com/user-attachments/assets/00bf72e7-cf6a-4860-a246-09b98a376606" />
+   <img width="255" height="169" alt="image" src="https://github.com/user-attachments/assets/6465afa7-cce5-41af-9706-c55d01176e48" />
 
 ## Modo 1 (Jogador x Jogador)
   - Ao escolher o modo número 1, o programa vai, primeiramente, perguntar quais os nomes dos jogadores.
-<img width="399" height="101" alt="image" src="https://github.com/user-attachments/assets/3b78391a-a147-4976-9d2e-d97eacf79b14" />
-<img width="416" height="91" alt="image" src="https://github.com/user-attachments/assets/b45c24b5-f1ae-42ec-8a2c-43c53542c542" />
+<img width="274" height="160" alt="image" src="https://github.com/user-attachments/assets/175e22a4-3938-4bdf-b7e4-4d5dc0bed9d6" />
+<img width="267" height="188" alt="image" src="https://github.com/user-attachments/assets/5c8c18da-4d60-4e6d-a0ba-cd836b45df02" />
   - Depois dos nomes, inicia-se a escolha dos jogadores, ou seja, o programa pergunta o que o player deseja jogar.
   - Os jogadores terão as opções 1, 2 e 3. 1 sendo Pedra, 2 sendo Papel e 3 sendo Tesoura.
-    <img width="978" height="143" alt="image" src="https://github.com/user-attachments/assets/c52ce3e4-9bc4-484a-a8bb-177f2586a31b" />
+<img width="357" height="57" alt="image" src="https://github.com/user-attachments/assets/458e556f-8dd4-4e8e-8bdd-c4382425ac7a" />
   - Após a escolha do Jogador 1, terá um grande espaço que irá preencher o terminal para que o Jogador 2 não roube e veja a escolha do Jogador 1.
-    <img width="813" height="321" alt="image" src="https://github.com/user-attachments/assets/98aa1d59-7870-440f-b941-b31ef52f8f69" />
+<img width="585" height="405" alt="image" src="https://github.com/user-attachments/assets/c5ed3940-a2ef-4c1f-b017-be50c47c0244" />
   - Logo após a escolha do Jogador 2, o resultado da partida irá aparecer. Junto com uma mensagem perguntando aos jogadores se eles desejam continuar jogando.
-    <img width="472" height="157" alt="image" src="https://github.com/user-attachments/assets/41d8fcaf-5525-493f-a81b-23535a0a743b" />
+<img width="506" height="171" alt="image" src="https://github.com/user-attachments/assets/88484111-cfcc-402a-ba48-0e73a4fd6c56" />
   - Caso a escolha seja "s", o jogo irá rodar novamente até que o jogador escolha encerrar o jogo.
+<img width="351" height="100" alt="image" src="https://github.com/user-attachments/assets/002840fe-8985-415a-8d8e-178db1f3442c" />
 
-
+## Modo 2 (Jogador x Computador)
   
