@@ -5,7 +5,7 @@ scoreP2 = 0
 emp = 0
 rod = 0
 
-print("Bem-vindo ao Jokenpô!")
+print("\n\nBem-vindo ao Jokenpô!")
 print("\n")
 print("Menu")
 print("1 - Jogador x Jogador")
