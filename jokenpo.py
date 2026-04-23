@@ -36,7 +36,7 @@ while True:
         while p1 > 3 or p1 < 1:
             print("Escolha inválida")
             p1 = int(input(f"{nome1}, você deseja jogar: \n1(Pedra👊), 2(Papel🖐️ ), 3(Tesoura✂️ ): "))            
-        print("\n" * 20)
+        print("\n" * 50)
         p2 = int(input(f"{nome2}, você deseja jogar: \n1(Pedra👊), 2(Papel🖐️ ), 3(Tesoura✂️ ): "))
         while p2 > 3 or p2 < 1:
             print("Escolha inválida")
